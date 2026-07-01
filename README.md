@@ -91,3 +91,6 @@ Skimage (HOG, LBP)
 Gabor Filters
 Numpy, Pandas
 Gradio (Deployment UI)
+
+
+Project maintained by C G Venkat Raghava and Anubhav Verma.
